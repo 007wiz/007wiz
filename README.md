@@ -16,10 +16,10 @@ Here are some ideas to get you started:
  
 
 
-<a href="https://github.com/hackcoderr/github-readme-stats%22%3E
+<a href="https://github.com/hackcoderr/github-readme-stats%22%3E>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=007wiz&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
 </a>
-<a href="https://github.com/007wiz/github-readme-stats%22%3E
+<a href="https://github.com/007wiz/github-readme-stats%22%3E>
  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=007wiz&layout=compact&theme=radical" />
 </a>
