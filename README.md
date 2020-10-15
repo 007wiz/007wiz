@@ -1,7 +1,6 @@
 ### Hi there , i'm Vishal 👋
 ## I'm a full stack developer
-<!--
-**007wiz/007wiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -12,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about nothing . Im still learning.
 - 📫 How to reach me: by email
 - ⚡ Fun fact: Logic is same, only syntax is different.
---> 
+
  
 
 
